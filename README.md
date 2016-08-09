@@ -128,4 +128,5 @@ See the top of this README for an example of the expected output.
 
 
 ##Rajesh's version
-https://rajmak.wordpress.com/2016/02/19/structuring-text-using-conditional-random-field-crf-tagging-recipe-ingredient-phrases/
+blog: https://rajmak.wordpress.com/2016/02/19/structuring-text-using-conditional-random-field-crf-tagging-recipe-ingredient-phrases/ 
+github: https://github.com/rajeshmr/rajmak.wordpress.com/tree/master/structuring-text
