@@ -125,3 +125,7 @@ See the top of this README for an example of the expected output.
 [eg]:       mailto:ericagreene@gmail.com
 [am]:       http://github.com/adammck
 [license]:  https://github.com/NYTimes/ingredient-phrase-tagger/blob/master/LICENSE.md
+
+
+##Rajesh's version
+https://rajmak.wordpress.com/2016/02/19/structuring-text-using-conditional-random-field-crf-tagging-recipe-ingredient-phrases/
